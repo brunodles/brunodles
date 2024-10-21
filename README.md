@@ -9,7 +9,7 @@ Because of that I also started to play eletronic rpgs, at some time I wondered "
 
 Since then I worked with a lot of things: Java, Java2Me, Delphi 7, Ruby + rails, Android, Kotlin, Docker and a lot more.
 
-For some time went into Developer events, initially as presenter but later I became an organizer of GDG Maceió, Android Study Jams, Alagoas Dev, and contributed to the organization of other events like Rails Girls, Docker 1st~3rd Birthday and others.
+For some time went into Developer events, initially as presenter but later I became an organizer of GDG Maceió, Android Study Jams, Alagoas Dev, Maceió Coding Dojo. Contributed to the organization of other events like Rails Girls, Docker 1st~3rd Birthday, English Tech Talks and more.
 
 I realy enjoy to experiment new things. I made a lot of changes my carrear: from fullstack to mobile, to devops, to api developer, back to mobile, Eng Manager and then back to mobile again. With every change I learned a little bit, not only about other technologies, but about people and myself. 
 
